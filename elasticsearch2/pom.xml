@@ -30,7 +30,7 @@
 
     <properties>
         <!-- Supported Range [2.0.0,2.4.4] -->
-        <resource.version>2.4.6</resource.version>
+        <resource.version>6.8.17</resource.version>
         <jna.version>4.5.0</jna.version>
     </properties>
     
