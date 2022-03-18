@@ -29,7 +29,7 @@
     
     <properties>
         <!-- Supported Range [2.6.0,4.0.0] -->
-        <resource.version>4.0.0</resource.version>
+        <resource.version>5.2.1</resource.version>
     </properties>
     
     <dependencies>
